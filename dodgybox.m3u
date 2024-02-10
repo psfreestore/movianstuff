@@ -1,13 +1,13 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven" tvg-logo="",4seven
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/130px-4seven_logo_2018.svg.png",4seven
 http://63553905730679253.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/679253.ts
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="5 Star" tvg-logo="",5 Star
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="5 Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/220px-5Star_logo_2019.svg.png",5 Star
 http://63553905730629822.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/629822.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 Star +1" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/5-star-plus-uk.png?raw=true",5 Star +1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 Star +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/220px-5Star_logo_2019.svg.png",5 Star +1
 http://63553905730780071.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/780071.ts
-#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="5 USA" tvg-logo="",5 USA
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="5 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/200px-5USA_logo.svg.png",5 USA
 http://63553905730690422.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/690422.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 USA +1" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/5-usa-plus-uk.png?raw=true",5 USA +1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 USA +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/200px-5USA_logo.svg.png",5 USA +1
 http://63553905730780072.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/780072.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5select" tvg-logo="",5select
 http://63553905730776348.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/776348.ts
@@ -51,19 +51,19 @@ http://63553905730741395.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/741395.ts
 http://63553905730749026.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/749026.ts
 #EXTINF:-1 tvg-id="boomerang.uk" tvg-name="Boomerang" tvg-logo="",Boomerang
 http://63553905730699793.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/699793.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1" tvg-logo="",BT Sport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BTSPORT_1_BLACK_RGB.png/120px-BTSPORT_1_BLACK_RGB.png",BT Sport 1
 http://63553905730324180.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/324180.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7XtzYSs8PRg-WItr-O56S7XEWbvTGeScn7upxCn9G1iDU.png",BT Sport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BTSPORT_2_BLACK_RGB.png/120px-BTSPORT_2_BLACK_RGB.png",BT Sport 2
 http://63553905730306390.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/306390.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3" tvg-logo="",BT Sport 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/120px-BTSPORT_3_BLACK_RGB.png",BT Sport 3
 http://63553905730360520.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/360520.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Box Office Ppv (Live During Events Only)" tvg-logo="http://live.phenixiptv.com:8080/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1Fn7NSfCN5B8gR399npWjxfu1IKoGeUlqI7THG48bweIYMi5kiEJI2vL0QZXwdbcwnY.png",BT Sport Box Office Ppv (Live During Events Only)
 http://63553905730320201.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/320201.ts
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="BT Sport Espn" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7XtzYSs8PRg-WItr-O56S7XHnxjLFC1glY7Ow9iVNVtCk.png",BT Sport Espn
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="BT Sport Espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTSPORT_ESPN_BLACK_RED.png/120px-BTSPORT_ESPN_BLACK_RED.png",BT Sport Espn
 http://63553905730290608.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/290608.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 1" tvg-logo="",BT Sport Extra 1
 http://63553905730324185.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/324185.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="Cartoon Network" tvg-logo="",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cartoon_Network_Too_logo_%282006-2012%29.png/120px-Cartoon_Network_Too_logo_%282006-2012%29.png",Cartoon Network
 http://63553905730699795.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/699795.ts
 #EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="Cartoonito" tvg-logo="",Cartoonito
 http://63553905730695541.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/695541.ts
@@ -71,15 +71,15 @@ http://63553905730695541.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/695541.ts
 http://63553905730741397.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/741397.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cbeebies" tvg-logo="",Cbeebies
 http://63553905730777943.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/777943.ts
-#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="CBS Drama" tvg-logo="",CBS Drama
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="CBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CBS_Drama.png/120px-CBS_Drama.png",CBS Drama
 http://63553905730756041.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/756041.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Justice" tvg-logo="",CBS Justice
 http://63553905730772820.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/772820.ts
-#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS Reality" tvg-logo="",CBS Reality
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/120px-CBS_Reality.png",CBS Reality
 http://63553905730706462.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/706462.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Documentary" tvg-logo="",CGTN Documentary
 http://63553905730679265.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/679265.ts
-#EXTINF:-1 tvg-id="challenge.uk" tvg-name="Challenge" tvg-logo="",Challenge
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Challenge_Logo.png/120px-Challenge_Logo.png",Challenge
 http://63553905730694119.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/694119.ts
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4" tvg-logo="",Channel 4
 http://63553905730703162.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/703162.ts
@@ -195,9 +195,9 @@ http://63553905730741406.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/741406.ts
 http://63553905730349616.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/349616.ts
 #EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="Food Network" tvg-logo="",Food Network
 http://63553905730763167.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/763167.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Free Sports" tvg-logo="http://files.rednetcontent.com/chlogo/Free-Sports-logo-image.png",Free Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Free Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/FreeSports4.jpg/120px-FreeSports4.jpg",Free Sports
 http://63553905730329301.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/329301.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GB News" tvg-logo="",GB News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GBnews.jpg/120px-GBnews.jpg",GB News
 http://63553905730779839.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/779839.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ginx Esports TV" tvg-logo="s:1:/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1FlSZ3BFs9CmThzPGrLiOpxnQMjfYrv5_uGKRnfn1HmKvbVksRgWC-RczlRcFLa3kNQ.png",Ginx Esports TV
 http://63553905730306415.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/306415.ts
@@ -207,17 +207,17 @@ http://63553905730324191.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/324191.ts
 http://63553905730767594.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/767594.ts
 #EXTINF:-1 tvg-id="gold.uk" tvg-name="Gold" tvg-logo="",Gold
 http://63553905730762335.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/762335.ts
-#EXTINF:-1 tvg-id="horrorchannelplus1.uk" tvg-name="Horror Channel" tvg-logo="",Horror Channel
+#EXTINF:-1 tvg-id="horrorchannelplus1.uk" tvg-name="Horror Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Horror_Channel_logo.png/120px-Horror_Channel_logo.png",Horror Channel
 http://63553905730432532.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/432532.ts
-#EXTINF:-1 tvg-id="horrorchannelplus1.uk" tvg-name="Horror Channel +1" tvg-logo="",Horror Channel +1
+#EXTINF:-1 tvg-id="horrorchannelplus1.uk" tvg-name="Horror Channel +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Horror_Channel_logo.png/120px-Horror_Channel_logo.png",Horror Channel +1
 http://63553905730760752.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/760752.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Inspiration TV" tvg-logo="",Inspiration TV
 http://63553905730776351.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/776351.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="",Investigation Discovery
 http://63553905730779840.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/779840.ts
-#EXTINF:-1 tvg-id="islamchannel.uk" tvg-name="Islam Channel" tvg-logo="",Islam Channel
+#EXTINF:-1 tvg-id="islamchannel.uk" tvg-name="Islam Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Islam_channel_logo.jpg/120px-Islam_channel_logo.jpg",Islam Channel
 http://63553905730775750.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/775750.ts
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="ITV" tvg-logo="",ITV
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="ITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ITV_logo_2013.png/120px-ITV_logo_2013.png",ITV
 http://63553905730756087.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/756087.ts
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2" tvg-logo="",ITV 2
 http://63553905730756080.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/756080.ts
@@ -293,7 +293,7 @@ http://63553905730780955.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/780955.ts
 http://63553905730780085.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/780085.ts
 #EXTINF:-1 tvg-id="popplus1.uk" tvg-name="Pop +1" tvg-logo="",Pop +1
 http://63553905730772068.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/772068.ts
-#EXTINF:-1 tvg-id="popmaxplus1.uk" tvg-name="Pop Max" tvg-logo="",Pop Max
+#EXTINF:-1 tvg-id="popmaxplus1.uk" tvg-name="Pop Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/120px-Pop-max-logo.png",Pop Max
 http://63553905730632974.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/632974.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/20180626_PREMIERSPORTS_RGB_V2.jpg/120px-20180626_PREMIERSPORTS_RGB_V2.jpg",Premier Sport
 http://63553905730314008.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/314008.ts
@@ -309,7 +309,7 @@ http://63553905730768591.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/768591.ts
 http://63553905730731948.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/731948.ts
 #EXTINF:-1 tvg-id="really.uk" tvg-name="Really" tvg-logo="",Really
 http://63553905730561196.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/561196.ts
-#EXTINF:-1 tvg-id="s4c.uk" tvg-name="S4C" tvg-logo="",S4C
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="S4C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/S4C_Logo_BUG_Medium.png/120px-S4C_Logo_BUG_Medium.png",S4C
 http://63553905730764282.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/764282.ts
 #EXTINF:-1 tvg-id="skyarts.uk" tvg-name="Sky Arts" tvg-logo="",Sky Arts
 http://63553905730749049.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/749049.ts
@@ -361,7 +361,7 @@ http://63553905730725568.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/725568.ts
 http://63553905730311206.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/311206.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action" tvg-logo="",Sky Sports Action
 http://63553905730780158.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/780158.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Box Office  (Event Only)" tvg-logo="http://live.phenixiptv.com:8080/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1FnheMCZab6hM4DNvdY6piJI-PEiGiE9HtOG3eO_Mr6hS7yMNI9rUJEdxuK3jFscF7U.png",Sky Sports Box Office  (Event Only)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Box Office  (Event Only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/SkySportsBoxOfficeLogo.png/120px-SkySportsBoxOfficeLogo.png",Sky Sports Box Office  (Event Only)
 http://63553905730306433.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/306433.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="",Sky Sports Cricket
 http://63553905730357301.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/357301.ts
@@ -385,15 +385,15 @@ http://63553905730383196.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/383196.ts
 http://63553905730306461.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/306461.ts
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-racing-uk.png?raw=true",Sky Sports Racing
 http://63553905730286153.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/286153.ts
-#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="Sky Witness" tvg-logo="",Sky Witness
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="Sky Witness" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Witness_%282020%29.png/120px-Sky_Witness_%282020%29.png",Sky Witness
 http://63553905730720556.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/720556.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV" tvg-logo="",Sony TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sony_Movie_Channel.png/104px-Sony_Movie_Channel.png",Sony TV
 http://63553905730778825.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/778825.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports Tonight" tvg-logo="s:1:/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1FmLR4OvsdQnarFbX9nBiTRuB6OfnOldSh4mRCbQIIwpK3NLY2EQP9Zr4k6pGzU3TUg.png",Sports Tonight
 http://63553905730311207.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/311207.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sporty Stuff" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sporty-stuff-tv-uk.png?raw=true",Sporty Stuff
 http://63553905730306463.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/306463.ts
-#EXTINF:-1 tvg-id="syfy.uk" tvg-name="Syfy" tvg-logo="",Syfy
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Syfylogo.png/120px-Syfylogo.png",Syfy
 http://63553905730736403.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/736403.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Talking Pictures" tvg-logo="",Talking Pictures
 http://63553905730780089.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/780089.ts
@@ -403,13 +403,13 @@ http://63553905730756140.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/756140.ts
 http://63553905730756141.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/756141.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Box" tvg-logo="",The Box
 http://63553905730781971.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/781971.ts
-#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="Tiny Pop" tvg-logo="",Tiny Pop
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="Tiny Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/New_Tiny_Pop_Logo_2018.png/120px-New_Tiny_Pop_Logo_2018.png",Tiny Pop
 http://63553905730734482.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/734482.ts
 #EXTINF:-1 tvg-id="tlcplus1.uk" tvg-name="TLC" tvg-logo="",TLC
 http://63553905730681722.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/681722.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Together TV" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/together-tv-uk.png?raw=true",Together TV
 http://63553905730778827.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/778827.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel" tvg-logo="",Travel Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Travel_Channel_HD_-_Logo.png/120px-Travel_Channel_HD_-_Logo.png",Travel Channel
 http://63553905730756145.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/756145.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Xp" tvg-logo="",Travel Xp
 http://63553905730777949.ofd0208.xyz:80/play/vi0217883/Q73SPkJ39t/777949.ts
