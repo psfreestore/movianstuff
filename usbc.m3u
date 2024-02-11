@@ -1,1230 +1,1099 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="NFL RedZone" group-title="Sports",NFL RedZone
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1006001
-#EXTINF:-1 tvg-name="NFL RedZone " group-title="Sports",NFL RedZone 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15890
-#EXTINF:-1 tvg-name="NFL Network HD" group-title="Sports",NFL Network HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
-#EXTINF:-1 tvg-name="NFL Game Pass ===>" group-title="Sports",NFL Game Pass
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26402
-#EXTINF:-1 tvg-name="NBA TV HD" group-title="Sports",NBA TV HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/38067
-#EXTINF:-1 tvg-name="NBA TV " group-title="Sports",NBA TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15892
-#EXTINF:-1 tvg-name="NBC Sports Bay Area HD" group-title="Sports",NBC Sports Bay Area HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26846
-#EXTINF:-1 tvg-name="NBC Sports California HD" group-title="Sports",NBC Sports California HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26847
-#EXTINF:-1 tvg-name="NBC Sports Chicago HD" group-title="Sports",NBC Sports Chicago HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26848
-#EXTINF:-1 tvg-name="NBC Sports Northwest HD" group-title="Sports",NBC Sports Northwest HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26849
-#EXTINF:-1 tvg-name="NBC Sports Philadelphia HD" group-title="Sports",NBC Sports Philadelphia HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26850
-#EXTINF:-1 tvg-name="NBC Sports Washington HD" group-title="Sports",NBC Sports Washington HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26851
-#EXTINF:-1 group-title="Sports",NFL: Seahawks
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022696
-#EXTINF:-1 group-title="Sports",NFL: Steelers
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022697
-#EXTINF:-1 group-title="Sports",NFL: Texans
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022698
-#EXTINF:-1 group-title="Sports",NFL: Titans
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022699
-#EXTINF:-1 group-title="Sports",NFL: Vikings
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022700
-#EXTINF:-1 group-title="Music",Island of Chacha
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28903
-#EXTINF:-1 group-title="Music",Young Money
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28978
-#EXTINF:-1 group-title="Music",Cadillacc Music
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28979
-#EXTINF:-1 group-title="Music",1 AM Radio
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28980
-#EXTINF:-1 group-title="Music",Fuego
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28981
-#EXTINF:-1 group-title="Music",Y2K
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28982
-#EXTINF:-1 group-title="Music",Electro City
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28983
-#EXTINF:-1 group-title="Music",Backyard BBQ
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28984
-#EXTINF:-1 group-title="Music",Dash Hits
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28985
-#EXTINF:-1 group-title="Music","90's"
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28986
-#EXTINF:-1 group-title="Music",Pure Soul Powered By Isaac Hayes
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28987
-#EXTINF:-1 group-title="Music",Doggystyle
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28988
-#EXTINF:-1 group-title="Music",SKEENET
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28989
-#EXTINF:-1 group-title="Music",What The Funk
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28990
-#EXTINF:-1 group-title="Music","80's"
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28991
-#EXTINF:-1 group-title="Music",La Isla
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28992
-#EXTINF:-1 group-title="Music",Fusion
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28993
-#EXTINF:-1 group-title="Music","70's"
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28994
-#EXTINF:-1 group-title="Music",Ratpack
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28995
-#EXTINF:-1 group-title="Music",The Strip
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28996
-#EXTINF:-1 group-title="Music",Paradise City
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28997
-#EXTINF:-1 group-title="Music",Reggae King
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28998
-#EXTINF:-1 group-title="Music",Church of Rock & Roll
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28999
-#EXTINF:-1 group-title="Music",Delicious Vinyl Radio
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/29000
-#EXTINF:-1 group-title="Music",The Oldies
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/29002
-#EXTINF:-1 group-title="Music",Disco Fever
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/29003
-#EXTINF:-1 group-title="Music",Love Songs
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/29004
-#EXTINF:-1 group-title="TV Shows",A&E
-
-#EXTINF:-1 group-title="Movies", Actionmax  HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12794
-
-#EXTINF:-1 group-title="Entertainment", Alternative
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25686
-
-#EXTINF:-1 group-title="Entertainment", AMC 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12792
-
-#EXTINF:-1 group-title="Entertainment", American Heroes HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12791
-
-#EXTINF:-1 group-title="Documentary", Animal Planet HD 
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD" tvg-logo="" group-title="Documentary",Animal Planet HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12790
-
-#EXTINF:-1 group-title="Entertainment", Aspire 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457906
-
-#EXTINF:-1 group-title="Entertainment", Awe 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25980
-
-#EXTINF:-1 group-title="Entertainment", Awe Plus 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022916
-
-#EXTINF:-1 group-title="Entertainment", AXS TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25344
-
-#EXTINF:-1 group-title="Entertainment", Bet HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12787
-
-#EXTINF:-1 group-title="Entertainment", Bet Her 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12785
-
-#EXTINF:-1 group-title="Music", Bet Jams 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22619
-
-#EXTINF:-1 group-title="Music", Bet Soul 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22618
-
-#EXTINF:-1 group-title="News", Black News Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449199
-
-#EXTINF:-1 group-title="News", Bloomberg  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12781
-
-#EXTINF:-1 group-title="Kids", Boomerang HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12784
-
-#EXTINF:-1 group-title="Entertainment", Bounce TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12783
-
-#EXTINF:-1 group-title="Entertainment", Bravo HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12782
-
-#EXTINF:-1 group-title="Entertainment", Buzzr 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449651
-
-#EXTINF:-1 group-title="Kids", Cartoon Network HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12780
-
-#EXTINF:-1 group-title="News", Cheddar 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/44386
-
-#EXTINF:-1 group-title="Entertainment", CMT 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/44389
-
-#EXTINF:-1 group-title="Movies", Cinemax HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12777
-
-#EXTINF:-1 group-title="Movies", Cinemax Moremax HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12727
-
-#EXTINF:-1 group-title="Movies", Cinemax Outermax HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12776
-
-#EXTINF:-1 group-title="Movies", Cinemax Thriller HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12775
-
-#EXTINF:-1 group-title="News", CNBC HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12774
-
-#EXTINF:-1 group-title="News", CNBC World HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12773
-
-#EXTINF:-1 group-title="News", CNN HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12772
-
-#EXTINF:-1 group-title="Entertainment", Comedy Central HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12769
-
-#EXTINF:-1 group-title="Food", Cooking Channel HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12770
-
-#EXTINF:-1 group-title="Music", Dance EDM
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25676
-
-#EXTINF:-1 group-title="Entertainment", Destination America HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12768
-
-#EXTINF:-1 group-title="Documentary", Discovery Channel HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12767
-
-#EXTINF:-1 group-title="Documentary", Discovery Family 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22621
-
-#EXTINF:-1 group-title="Documentary", Discovery Life 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22620
-
-#EXTINF:-1 group-title="Documentary", Science 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22642
-
-#EXTINF:-1 group-title="Entertainment", Magnolia Network 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12762
-
-#EXTINF:-1 group-title="Entertainment", E! HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12761
-
-#EXTINF:-1 group-title="Movies", MGM+ Hits 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12759
-
-#EXTINF:-1 group-title="Food", Food Network HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12758
-
-#EXTINF:-1 group-title="News", Fox Business  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25122
-
-#EXTINF:-1 group-title="News", Fox News HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12756
-
-#EXTINF:-1 group-title="Entertainment", Freeform HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12755
-
-#EXTINF:-1 group-title="Entertainment", Fuse HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12754
-
-#EXTINF:-1 group-title="Entertainment", FX HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12752
-
-#EXTINF:-1 group-title="Movies", FXM HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12750
-
-#EXTINF:-1 group-title="Entertainment", FXX HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
-
-#EXTINF:-1 group-title="Food", FYI HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12748
-#EXTINF:-1 group-title="Entertainment", Great American Country (GAC) 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28878
-#EXTINF:-1 group-title="Entertainment", Grit TV  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12746
-#EXTINF:-1 group-title="Entertainment", GSN 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12747
-#EXTINF:-1 group-title="Entertainment", Hallmark HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12745
-#EXTINF:-1 group-title="Entertainment", Hallmark Drama 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26496
-#EXTINF:-1 group-title="Entertainment", Hallmark M&M HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12744
-#EXTINF:-1 group-title="Movies", HBO 2 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12796
-#EXTINF:-1 group-title="Movies", HBO Comedy HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12739
-#EXTINF:-1 group-title="Movies", HBO Family HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12741
-#EXTINF:-1 group-title="Movies", HBO HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12743
-#EXTINF:-1 group-title="Movies", HBO Signature HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12740
-#EXTINF:-1 group-title="Movies", HBO Zone HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12742
-#EXTINF:-1 group-title="Entertainment", HGTV HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12737
-#EXTINF:-1 group-title="Music", Hip Hop & R & B
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25675
-#EXTINF:-1 group-title="Documentary", History HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12738
-#EXTINF:-1 group-title="Music", Hit List
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25685
-#EXTINF:-1 group-title="News", HLN HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12736
-#EXTINF:-1 group-title="Movies", IFC HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12733
-#EXTINF:-1 group-title="Documentary", Investigation Discovery HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12734
-#EXTINF:-1 group-title="Entertainment", Ion Television  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12735
-#EXTINF:-1 group-title="Kids", Kidz Only!
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25688
-#EXTINF:-1 group-title="News", Law & Crime Network 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25025
-#EXTINF:-1 group-title="Movies", Lifetime HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12732
-#EXTINF:-1 group-title="Movies", Lifetime Movies HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12731
-#EXTINF:-1 group-title="Entertainment", Me TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12730
-#EXTINF:-1 group-title="Music", Mexicana
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25684
-#EXTINF:-1 group-title="Documentary", Military History 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25023
-#EXTINF:-1 group-title="Sports", MLB Network HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12728
-#EXTINF:-1 group-title="News", MSNBC HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12725
-#EXTINF:-1 group-title="Music", MTV  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12726
-#EXTINF:-1 group-title="Music", MTV 2 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22631
-#EXTINF:-1 group-title="Music", MTV Classic 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28271
-#EXTINF:-1 group-title="Music", MTV Live 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28270
-#EXTINF:-1 group-title="Music", MTV U 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28269
-#EXTINF:-1 group-title="Documentary", Nat Geo HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12724
-#EXTINF:-1 group-title="Documentary", Nat Geo Wild HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12723
-#EXTINF:-1 group-title="News", Newsy 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28877
-#EXTINF:-1 group-title="Kids", Nick Jr 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12717
-#EXTINF:-1 group-title="Kids", Nickeloden 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12719
-#EXTINF:-1 group-title="Kids", Nicktoons 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12718
-#EXTINF:-1 group-title="News", One America News (OAN) 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28872
-#EXTINF:-1 group-title="Sports", Outdoor Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28869
-#EXTINF:-1 group-title="Sports", Outside TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28870
-#EXTINF:-1 group-title="Entertainment", Ovation Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28871
-#EXTINF:-1 group-title="Entertainment", OWN HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12716
-#EXTINF:-1 group-title="Entertainment", Oxygen HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12715
-#EXTINF:-1 group-title="Entertainment", Paramount Network 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12714
-#EXTINF:-1 group-title="Kids", PBS Kids HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12713
-#EXTINF:-1 group-title="Music", Pop & Country
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25683
-#EXTINF:-1 group-title="Music", Pop Hits
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25682
-#EXTINF:-1 group-title="Music", Pop Latino
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25674
-#EXTINF:-1 group-title="Entertainment", Pursuit Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28873
-#EXTINF:-1 group-title="Music", R&B Soul
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25672
-#EXTINF:-1 group-title="Music", Rap
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25681
-#EXTINF:-1 group-title="Music", Rap 2K
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25680
-#EXTINF:-1 group-title="Music", Rock
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25679
-#EXTINF:-1 group-title="Movies", Showtime 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12709
-#EXTINF:-1 group-title="Movies", Showtime 2 HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12708
-#EXTINF:-1 group-title="Movies", Showtime Extreme HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12707
-#EXTINF:-1 group-title="Movies", Showtime Family Zone 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22636
-#EXTINF:-1 group-title="Movies", Showtime Next 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24861
-#EXTINF:-1 group-title="Movies", Showtime Women 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22635
-#EXTINF:-1 group-title="Documentary", Smithsonian Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25026
-#EXTINF:-1 group-title="Movies", Starz 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12704
-#EXTINF:-1 group-title="Movies", Starz Comedy 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12703
-#EXTINF:-1 group-title="Movies", Starz Edge 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12702
-#EXTINF:-1 group-title="Movies", Starz Encore 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22639
-#EXTINF:-1 group-title="Movies", Starz Encore Suspense 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22638
-#EXTINF:-1 group-title="Movies", Starz Encore Western  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12701
-#EXTINF:-1 group-title="Movies", Starz in Black  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22640
-#EXTINF:-1 group-title="Movies", Starz Kids and Family  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
-#EXTINF:-1 group-title="Entertainment", Sundance TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26515
-#EXTINF:-1 group-title="Entertainment", Syfy HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12698
-#EXTINF:-1 group-title="Entertainment", TBS HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12697
-#EXTINF:-1 group-title="Movies", TCM HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12696
-#EXTINF:-1 group-title="Music", Teen Beats
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25678
-#EXTINF:-1 group-title="Kids", Teen Nick 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22629
-#EXTINF:-1 group-title="Entertainment", Telemundo HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
-#EXTINF:-1 group-title="Movies", The Movie Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22557
-#EXTINF:-1 group-title="Movies", The Movie Channel Xtra 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22556
-#EXTINF:-1 group-title="Music", Throwback Jamz
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25677
-#EXTINF:-1 group-title="Entertainment", TLC 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12695
-#EXTINF:-1 group-title="Entertainment", TNT HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12694
-#EXTINF:-1 group-title="Entertainment", Travel Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12693
-#EXTINF:-1 group-title="Music", Tropicales
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25687
-#EXTINF:-1 group-title="Entertainment", Tru TV HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12692
-#EXTINF:-1 group-title="Entertainment", TV Land HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12691
-#EXTINF:-1 group-title="Entertainment", TV One 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12690
-#EXTINF:-1 group-title="Entertainment", Univision 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
-#EXTINF:-1 group-title="Entertainment", USA Network HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12689
-#EXTINF:-1 group-title="Music", VH1  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12685
-#EXTINF:-1 group-title="Entertainment", WE TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12684
-#EXTINF:-1 group-title="News", Weather Channel HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12681
-#EXTINF:-1 group-title="Entertainment", WGN Chicago  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12680
-#EXTINF:-1 group-title="Documentary", Court TV 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Court TV" tvg-logo="" group-title="Documentary",Court TV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/67093
-#EXTINF:-1 group-title="Documentary", Court TV Mystery 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Court TV Mystery" tvg-logo="" group-title="Documentary",Court TV Mystery
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/67095
-#EXTINF:-1 group-title="Movies", PixL 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/164718
-#EXTINF:-1 group-title="Kids", Disney Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
-#EXTINF:-1 group-title="Movies", Starz Cinema 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421446
-#EXTINF:-1 group-title="Movies", MGM+ Drive-In 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421449
-#EXTINF:-1 group-title="Movies", Starz Encore Black 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421450
-#EXTINF:-1 group-title="Movies", Starz Encore Family 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421451
-#EXTINF:-1 group-title="Movies", Starz Encore Classic 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421452
-#EXTINF:-1 group-title="Movies", MGM+ 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421495
-#EXTINF:-1 group-title="Movies", Indieplex 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421499
-#EXTINF:-1 group-title="Movies", Starz Encore Action 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421503
-#EXTINF:-1 group-title="Movies", Retroplex 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421505
-#EXTINF:-1 group-title="Movies", MGM+ Marquee
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421506
-#EXTINF:-1 group-title="Movies", HDNet Movies
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421507
-#EXTINF:-1 group-title="Movies", Showtime Showcase 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421508
-#EXTINF:-1 group-title="Kids", Disney Junior 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421510
-#EXTINF:-1 group-title="Movies", Movieplex 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421515
-#EXTINF:-1 group-title="Entertainment", Dog TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421516
-#EXTINF:-1 group-title="Kids", Disney XD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421519
-
-#EXTINF:-1 group-title="Shopping", HSN 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449183
-
-#EXTINF:-1 group-title="Movies", 5StarMax 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457903
-
-#EXTINF:-1 group-title="Movies", MovieMax 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457904
-
-#EXTINF:-1 group-title="Entertainment", Laff 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471429
-
-#EXTINF:-1 group-title="News", PBS New York 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471432
-
-#EXTINF:-1 group-title="Entertainment", SHOxBET 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/487943
-
-#EXTINF:-1 group-title="Movies", Sony Movie Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26820
-
-#EXTINF:-1 group-title="Entertainment", Heroes & Icons 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022427
-
-#EXTINF:-1 group-title="Entertainment", Paranormal HQ 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022918
-
-#EXTINF:-1 group-title="News", NEWSnet 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022920
-
-#EXTINF:-1 group-title="Entertainment", Female Empowerment Movement 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022921
-
-#EXTINF:-1 group-title="Lifestyle", The Health Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022922
-
-#EXTINF:-1 group-title="Entertainment", A-Z Mark Angel Comedy 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Documentary",Discovery Channel HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12767
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Family" tvg-logo="" group-title="Documentary",Discovery Family
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Life" tvg-logo="" group-title="Documentary",Discovery Life
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History HD" tvg-logo="" group-title="Documentary",History HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12738
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="Documentary",Investigation Discovery HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12734
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Military History" tvg-logo="" group-title="Documentary",Military History
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25023
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo HD" tvg-logo="" group-title="Documentary",Nat Geo HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12724
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Documentary",Nat Geo Wild HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12723
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Science" tvg-logo="" group-title="Documentary",Science
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22642
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smithsonian Channel" tvg-logo="" group-title="Documentary",Smithsonian Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25026
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A-Z Mark Angel Comedy" tvg-logo="" group-title="Entertainment",A-Z Mark Angel Comedy
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022925
-
-#EXTINF:-1 group-title="Movies", FlixHouse Action 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022926
-
-#EXTINF:-1 group-title="Movies", FlixHouse Crime & Thrillers
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022927
-
-#EXTINF:-1 group-title="Movies", FlixHouse Horror
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022928
-
-#EXTINF:-1 group-title="Movies", IndieBox
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022929
-
-#EXTINF:-1 group-title="Lifestyle", NOMADslow tv
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022930
-
-#EXTINF:-1 group-title="Entertainment", IP FAMBA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022931
-
-#EXTINF:-1 group-title="Entertainment", Only Good TV
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022932
-
-#EXTINF:-1 group-title="Lifestyle", Land of Floof
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022933
-
-#EXTINF:-1 group-title="Entertainment", BVIRAL
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022934
-
-#EXTINF:-1 group-title="Sports", MMA Futures
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022935
-
-#EXTINF:-1 group-title="News", OAN Plus
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022936
-
-#EXTINF:-1 group-title="Entertainment", Frudy
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022937
-
-#EXTINF:-1 group-title="Entertainment", Look At Me
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022938
-
-#EXTINF:-1 group-title="News", Daily Flash
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022939
-
-#EXTINF:-1 group-title="Entertainment", Edgy Urban
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022941
-
-#EXTINF:-1 group-title="Entertainment", Edgy TV
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022942
-
-#EXTINF:-1 group-title="Sports", NBA TV 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12722
-
-#EXTINF:-1 group-title="Sports", WWE HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15877
-
-#EXTINF:-1 group-title="Sports", Tennis Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15880
-
-#EXTINF:-1 group-title="Sports", PAC-12 Washington HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15881
-
-#EXTINF:-1 group-title="Sports", PAC-12 Oregon HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15882
-
-#EXTINF:-1 group-title="Sports", PAC-12 Mountain HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15883
-
-#EXTINF:-1 group-title="Sports", PAC-12 Network HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15884
-
-#EXTINF:-1 group-title="Sports", PAC-12 Los Angeles HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15885
-
-#EXTINF:-1 group-title="Sports", PAC-12 Bay Area HD  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15886
-
-#EXTINF:-1 group-title="Sports", PAC-12 Arizona HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15887
-
-#EXTINF:-1 group-title="Sports", Olympic Channel 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15888
-
-#EXTINF:-1 group-title="Sports", NHL Network HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15889
-
-#EXTINF:-1 group-title="Sports", NBC Sports Philly HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15892
-
-#EXTINF:-1 group-title="Sports", NBC Sports Northwest  
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15893
-
-#EXTINF:-1 group-title="Sports", NBC Sports Chicago HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15894
-
-#EXTINF:-1 group-title="Sports", NBC Sports California HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15895
-
-#EXTINF:-1 group-title="Sports", NBC Sports Boston 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15896
-
-#EXTINF:-1 group-title="Sports", NBC Sports Bay Area HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15897
-
-#EXTINF:-1 group-title="Sports", NBC Golf HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15898
-
-#EXTINF:-1 group-title="Sports", Longhorn HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15899
-
-#EXTINF:-1 group-title="Sports", Bally Sports Midwest
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15903
-
-#EXTINF:-1 group-title="Sports", Bally Sports Detroit
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15904
-
-#EXTINF:-1 group-title="Sports", Bally Sports Arizona 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15905
-
-#EXTINF:-1 group-title="Sports", Fox Sports 2 HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15906
-
-#EXTINF:-1 group-title="Sports", Fox Sports 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
-
-#EXTINF:-1 group-title="Sports", ESPN HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15976
-#EXTINF:-1 group-title="Sports", ESPN News HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15975
-#EXTINF:-1 group-title="Sports", ESPN 2 HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15974
-#EXTINF:-1 group-title="Sports", ESPN U HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15972
-#EXTINF:-1 group-title="Sports", ESPN Deportes HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
-#EXTINF:-1 group-title="Sports", CBS Sports HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15977
-#EXTINF:-1 group-title="Sports", Big Ten Network HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15978
-#EXTINF:-1 group-title="Sports", BT Sport 1 (UK)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20821
-#EXTINF:-1 group-title="Sports", BT Sports 2 (UK)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20820
-#EXTINF:-1 group-title="Sports", BT Sport 3 (UK)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20819
-#EXTINF:-1 group-title="Sports", Sportsnet One HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20995
-#EXTINF:-1 group-title="Sports", Sportnet Ontario (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20996
-#EXTINF:-1 group-title="Sports", Sportsnet World (CA) 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20997
-#EXTINF:-1 group-title="Sports", Sportsnet Pacific HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20998
-#EXTINF:-1 group-title="Sports", Sportsnet West HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20999
-#EXTINF:-1 group-title="Sports", Sportsnet East (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21000
-#EXTINF:-1 group-title="Sports", Sportsnet 360 HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21001
-#EXTINF:-1 group-title="Sports", TSN 1 HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
-#EXTINF:-1 group-title="Sports", TSN 2 HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21005
-#EXTINF:-1 group-title="Sports", TSN 3 HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21004
-#EXTINF:-1 group-title="Sports", TSN 4 HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
-#EXTINF:-1 group-title="Sports", TSN 5 HD (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
-#EXTINF:-1 group-title="Sports", BT Sport ESPN (UK)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24304
-#EXTINF:-1 group-title="Sports", MAV TV
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25979
-#EXTINF:-1 group-title="Sports", Bally Sports New Orleans
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26801
-#EXTINF:-1 group-title="Sports", Bally Sports Oklahoma
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26803
-#EXTINF:-1 group-title="Sports", Bally Sports Indiana
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26805
-#EXTINF:-1 group-title="Sports", Bally Sports Wisconsin
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26817
-#EXTINF:-1 group-title="Sports", Motor Trend
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26819
-#EXTINF:-1 group-title="Sports", NBC Sports Washington
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26823
-#EXTINF:-1 group-title="Sports", Box Nation (UK)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20826
-#EXTINF:-1 group-title="Sports", Sky Sports Arena
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20827
-#EXTINF:-1 group-title="Sports", Sky Sports F1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20828
-#EXTINF:-1 group-title="Sports", Sky Sports Football
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20829
-#EXTINF:-1 group-title="Sports", Sky Sports Mix
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20830
-#EXTINF:-1 group-title="Sports", Sky Sports Prem League
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20831
-#EXTINF:-1 group-title="Sports", Sky Sports Golf
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20833
-#EXTINF:-1 group-title="Sports", Sky Sports Main Event
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20832
-#EXTINF:-1 group-title="Sports", Sky Sports Cricket
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20834
-#EXTINF:-1 group-title="Sports", Sky Sports Action
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20835
-#EXTINF:-1 group-title="Sports", Fight Network (CA)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21426
-#EXTINF:-1 group-title="Sports", SEC Network HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12710
-#EXTINF:-1 group-title="Sports", ACC Network
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26696
-#EXTINF:-1 group-title="Sports", TUDN HD 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25338
-#EXTINF:-1 group-title="Sports", YES Network
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22643
-#EXTINF:-1 group-title="Sports", Bally Sports North
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25331
-#EXTINF:-1 group-title="Sports", Bally Sports South
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25334
-#EXTINF:-1 group-title="Sports", Bally Sports Ohio
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25332
-#EXTINF:-1 group-title="Sports", Bally Sports Southeast
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25335
-#EXTINF:-1 group-title="Sports", Fox Sports Southwest
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25336
-#EXTINF:-1 group-title="Sports", Bally Sports San Diego
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25333
-#EXTINF:-1 group-title="Sports", Bally Sports Florida
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26913
-#EXTINF:-1 group-title="Sports", Bally Sports Sun
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26912
-#EXTINF:-1 group-title="Sports", NESN
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25343
-#EXTINF:-1 group-title="Sports", Sportsnet LA Lakers
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22626
-#EXTINF:-1 group-title="Sports", MSG 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22632
-#EXTINF:-1 group-title="Sports", Sky Sports News (UK)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24302
-#EXTINF:-1 group-title="Sports", Flow Sports 1 (Caribbean)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28139
-#EXTINF:-1 group-title="Sports", Premier Sports 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25803
-#EXTINF:-1 group-title="Sports", Premier Sports 2
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25804
-#EXTINF:-1 group-title="Sports", Racing UK
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20812
-#EXTINF:-1 group-title="Sports", Fox Deportes
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25341
-#EXTINF:-1 group-title="Sports", ESPN (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28393
-#EXTINF:-1 group-title="Sports", Racing TV (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28394
-#EXTINF:-1 group-title="Sports", ESPN2 (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28398
-#EXTINF:-1 group-title="Sports", Fox Cricket (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28399
-#EXTINF:-1 group-title="Sports", Fox Sports 502 (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28400
-#EXTINF:-1 group-title="Sports", Fox Sports 507 (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28401
-#EXTINF:-1 group-title="Sports", Fox Sports 506 (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28402
-#EXTINF:-1 group-title="Sports", Fox Sports 505 (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28403
-#EXTINF:-1 group-title="Sports", Fox Sports 504 (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28404
-#EXTINF:-1 group-title="Sports", Fox Sports 503 (AU)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28405
-#EXTINF:-1 group-title="Sports", PDC Darts
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25731
-#EXTINF:-1 group-title="Sports", PDC Darts 2
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25732
-#EXTINF:-1 group-title="Sports", SY Sports Races
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24303
-#EXTINF:-1 group-title="Sports", Marquee Sports Net 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/55637
-#EXTINF:-1 group-title="Sports", Ginx 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/67098
-#EXTINF:-1 group-title="Sports", MLB Strike Zone
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26513
-#EXTINF:-1 group-title="Sports", NRL 247
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/824765
-#EXTINF:-1 group-title="Sports", Bally Sports West 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/931168
-#EXTINF:-1 group-title="Sports",NCAA Baseball 53
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/943759
-#EXTINF:-1 group-title="Sports",CFL 04
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022447
-#EXTINF:-1 group-title="Sports",NCAAF
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022622
-#EXTINF:-1 group-title="Sports",MLS 03
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022645
-#EXTINF:-1 group-title="Sports",NCAAB 80
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022915
-#EXTINF:-1 group-title="Sports",Sportsnews Highlights 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022917
-#EXTINF:-1 group-title="Sports",FiredUp Network 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022919
-#EXTINF:-1 group-title="Sports",TRACE Sport Stars 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022923
-#EXTINF:-1 group-title="Sports",United Fight Alliance 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022924
-#EXTINF:-1 group-title="Sports",Sportsnet NY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022940
-#EXTINF:-1 group-title="Entertainment",ABC Denver
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Denver" tvg-logo="" group-title="Entertainment",ABC Denver
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28073
-#EXTINF:-1 group-title="Entertainment",ABC Phoenix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Phoenix" tvg-logo="" group-title="Entertainment",ABC Phoenix
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28072
-#EXTINF:-1 group-title="Entertainment",ABC Seattle
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Seattle" tvg-logo="" group-title="Entertainment",ABC Seattle
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27040
-#EXTINF:-1 group-title="Entertainment",CBS 7 Seattle
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alternative" tvg-logo="" group-title="Entertainment",Alternative
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25686
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="Entertainment",AMC
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12792
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Heroes HD" tvg-logo="" group-title="Entertainment",American Heroes HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12791
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aspire" tvg-logo="" group-title="Entertainment",Aspire
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457906
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awe" tvg-logo="" group-title="Entertainment",Awe
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awe Plus" tvg-logo="" group-title="Entertainment",Awe Plus
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXS TV" tvg-logo="" group-title="Entertainment",AXS TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bet HD" tvg-logo="" group-title="Entertainment",Bet HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12787
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bet Her" tvg-logo="" group-title="Entertainment",Bet Her
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12785
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bounce TV" tvg-logo="" group-title="Entertainment",Bounce TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12783
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bravo HD" tvg-logo="" group-title="Entertainment",Bravo HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12782
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buzzr" tvg-logo="" group-title="Entertainment",Buzzr
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BVIRAL" tvg-logo="" group-title="Entertainment",BVIRAL
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022934
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS 7 Seattle" tvg-logo="" group-title="Entertainment",CBS 7 Seattle
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27041
-#EXTINF:-1 group-title="Entertainment",CBS Austin
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Austin" tvg-logo="" group-title="Entertainment",CBS Austin
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41996
-#EXTINF:-1 group-title="Entertainment",CBS Baltimore
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Baltimore" tvg-logo="" group-title="Entertainment",CBS Baltimore
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41932
-#EXTINF:-1 group-title="Entertainment",CBS Boise
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Boise" tvg-logo="" group-title="Entertainment",CBS Boise
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41918
-#EXTINF:-1 group-title="Entertainment",CBS Charleston
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Charleston" tvg-logo="" group-title="Entertainment",CBS Charleston
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41978
-#EXTINF:-1 group-title="Entertainment",CBS Charlotte
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Charlotte" tvg-logo="" group-title="Entertainment",CBS Charlotte
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41942
-#EXTINF:-1 group-title="Entertainment",CBS Colorado Springs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Colorado Springs" tvg-logo="" group-title="Entertainment",CBS Colorado Springs
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41898
-#EXTINF:-1 group-title="Entertainment",CBS Columbia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Columbia" tvg-logo="" group-title="Entertainment",CBS Columbia
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41981
-#EXTINF:-1 group-title="Entertainment",CBS Columbus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Columbus" tvg-logo="" group-title="Entertainment",CBS Columbus
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41957
-#EXTINF:-1 group-title="Entertainment",CBS Corpus Cristi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Corpus Cristi" tvg-logo="" group-title="Entertainment",CBS Corpus Cristi
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42000
-#EXTINF:-1 group-title="Entertainment",CBS Denver
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Denver" tvg-logo="" group-title="Entertainment",CBS Denver
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18354
-#EXTINF:-1 group-title="Entertainment",CBS Des Moines
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Des Moines" tvg-logo="" group-title="Entertainment",CBS Des Moines
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41917
-#EXTINF:-1 group-title="Entertainment",CBS El Paso
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS El Paso" tvg-logo="" group-title="Entertainment",CBS El Paso
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42004
-#EXTINF:-1 group-title="Entertainment",CBS Fort Worth
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Fort Worth" tvg-logo="" group-title="Entertainment",CBS Fort Worth
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42006
-#EXTINF:-1 group-title="Entertainment",CBS Houston
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Houston" tvg-logo="" group-title="Entertainment",CBS Houston
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42009
-#EXTINF:-1 group-title="Entertainment",CBS Jacksonville
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Jacksonville" tvg-logo="" group-title="Entertainment",CBS Jacksonville
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41906
-#EXTINF:-1 group-title="Entertainment",CBS Knoxville
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Knoxville" tvg-logo="" group-title="Entertainment",CBS Knoxville
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41989
-#EXTINF:-1 group-title="Entertainment",CBS Los Angeles
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Los Angeles" tvg-logo="" group-title="Entertainment",CBS Los Angeles
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41880
-#EXTINF:-1 group-title="Entertainment",CBS Louisville
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Louisville" tvg-logo="" group-title="Entertainment",CBS Louisville
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41924
-#EXTINF:-1 group-title="Entertainment",CBS Miami
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Miami" tvg-logo="" group-title="Entertainment",CBS Miami
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41909
-#EXTINF:-1 group-title="Entertainment",CBS Milwaukee
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Milwaukee" tvg-logo="" group-title="Entertainment",CBS Milwaukee
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42023
-#EXTINF:-1 group-title="Entertainment",CBS Nashville
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Nashville" tvg-logo="" group-title="Entertainment",CBS Nashville
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41994
-#EXTINF:-1 group-title="Entertainment",CBS New Orleans
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS New Orleans" tvg-logo="" group-title="Entertainment",CBS New Orleans
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41927
-#EXTINF:-1 group-title="Entertainment",CBS Phoenix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Phoenix" tvg-logo="" group-title="Entertainment",CBS Phoenix
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28071
-#EXTINF:-1 group-title="Entertainment",CBS Providence
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Providence" tvg-logo="" group-title="Entertainment",CBS Providence
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41974
-#EXTINF:-1 group-title="Entertainment",CBS Salt Lake City
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Salt Lake City" tvg-logo="" group-title="Entertainment",CBS Salt Lake City
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42016
-#EXTINF:-1 group-title="Entertainment",CBS San Antonio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS San Antonio" tvg-logo="" group-title="Entertainment",CBS San Antonio
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42012
-#EXTINF:-1 group-title="Entertainment",CBS San Diego
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS San Diego" tvg-logo="" group-title="Entertainment",CBS San Diego
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41889
-#EXTINF:-1 group-title="Entertainment",CBS San Francisco
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS San Francisco" tvg-logo="" group-title="Entertainment",CBS San Francisco
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41892
-#EXTINF:-1 group-title="Entertainment",CBS St. Louis
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS St. Louis" tvg-logo="" group-title="Entertainment",CBS St. Louis
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41939
-#EXTINF:-1 group-title="Entertainment",CBS Toledo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Toledo" tvg-logo="" group-title="Entertainment",CBS Toledo
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41959
-#EXTINF:-1 group-title="Entertainment",CBS Tucson
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Tucson" tvg-logo="" group-title="Entertainment",CBS Tucson
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41872
-#EXTINF:-1 group-title="Entertainment",CBS Tulsa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Tulsa" tvg-logo="" group-title="Entertainment",CBS Tulsa
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41964
-#EXTINF:-1 group-title="Entertainment",CBS Washington D.C.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Washington D.C." tvg-logo="" group-title="Entertainment",CBS Washington D.C.
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42019
-#EXTINF:-1 group-title="Entertainment",CW Atlanta
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMT" tvg-logo="" group-title="Entertainment",CMT
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/44389
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central HD" tvg-logo="" group-title="Entertainment",Comedy Central HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12769
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CW Atlanta" tvg-logo="" group-title="Entertainment",CW Atlanta
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41915
-#EXTINF:-1 group-title="Entertainment",CW Detroit
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CW Detroit" tvg-logo="" group-title="Entertainment",CW Detroit
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41934
-#EXTINF:-1 group-title="Entertainment",CW Philadelphia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CW Philadelphia" tvg-logo="" group-title="Entertainment",CW Philadelphia
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41970
-#EXTINF:-1 group-title="Entertainment",CW Sacramento
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CW Sacramento" tvg-logo="" group-title="Entertainment",CW Sacramento
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41885
-#EXTINF:-1 group-title="Entertainment",CW San Francisco
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CW San Francisco" tvg-logo="" group-title="Entertainment",CW San Francisco
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41893
-#EXTINF:-1 group-title="Entertainment",FOX 13 Seattle
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Destination America HD" tvg-logo="" group-title="Entertainment",Destination America HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12768
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dog TV" tvg-logo="" group-title="Entertainment",Dog TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421516
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! HD" tvg-logo="" group-title="Entertainment",E! HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12761
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edgy TV" tvg-logo="" group-title="Entertainment",Edgy TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022942
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edgy Urban" tvg-logo="" group-title="Entertainment",Edgy Urban
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022941
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Female Empowerment Movement" tvg-logo="" group-title="Entertainment",Female Empowerment Movement
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022921
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 13 Seattle" tvg-logo="" group-title="Entertainment",FOX 13 Seattle
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27042
-#EXTINF:-1 group-title="Entertainment",FOX Austin
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Austin" tvg-logo="" group-title="Entertainment",FOX Austin
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41997
-#EXTINF:-1 group-title="Entertainment",FOX Charleston
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Charleston" tvg-logo="" group-title="Entertainment",FOX Charleston
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41979
-#EXTINF:-1 group-title="Entertainment",FOX Cleveland
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Cleveland" tvg-logo="" group-title="Entertainment",FOX Cleveland
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41954
-#EXTINF:-1 group-title="Entertainment",FOX Colorado Springs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Colorado Springs" tvg-logo="" group-title="Entertainment",FOX Colorado Springs
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41899
-#EXTINF:-1 group-title="Entertainment",FOX Denver
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Denver" tvg-logo="" group-title="Entertainment",FOX Denver
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28074
-#EXTINF:-1 group-title="Entertainment",FOX Greenville
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Greenville" tvg-logo="" group-title="Entertainment",FOX Greenville
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41983
-#EXTINF:-1 group-title="Entertainment",FOX Houston
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Houston" tvg-logo="" group-title="Entertainment",FOX Houston
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42010
-#EXTINF:-1 group-title="Entertainment",FOX Jacksonville
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Jacksonville" tvg-logo="" group-title="Entertainment",FOX Jacksonville
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41907
-#EXTINF:-1 group-title="Entertainment",FOX Kansas City
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Kansas City" tvg-logo="" group-title="Entertainment",FOX Kansas City
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41937
-#EXTINF:-1 group-title="Entertainment",FOX Knoxville
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Knoxville" tvg-logo="" group-title="Entertainment",FOX Knoxville
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41990
-#EXTINF:-1 group-title="Entertainment",FOX Los Angeles
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Los Angeles" tvg-logo="" group-title="Entertainment",FOX Los Angeles
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41882
-#EXTINF:-1 group-title="Entertainment",FOX Louisville
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Louisville" tvg-logo="" group-title="Entertainment",FOX Louisville
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41925
-#EXTINF:-1 group-title="Entertainment",FOX Memphis
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Memphis" tvg-logo="" group-title="Entertainment",FOX Memphis
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41992
-#EXTINF:-1 group-title="Entertainment",FOX Milwaukee
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Milwaukee" tvg-logo="" group-title="Entertainment",FOX Milwaukee
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42024
-#EXTINF:-1 group-title="Entertainment",FOX Mobile
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Mobile" tvg-logo="" group-title="Entertainment",FOX Mobile
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41866
-#EXTINF:-1 group-title="Entertainment",FOX New Orleans
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX New Orleans" tvg-logo="" group-title="Entertainment",FOX New Orleans
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41929
-#EXTINF:-1 group-title="Entertainment",FOX Phoenix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Phoenix" tvg-logo="" group-title="Entertainment",FOX Phoenix
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25123
-#EXTINF:-1 group-title="Entertainment",FOX Providence
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Providence" tvg-logo="" group-title="Entertainment",FOX Providence
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41975
-#EXTINF:-1 group-title="Entertainment",FOX Sacramento
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sacramento" tvg-logo="" group-title="Entertainment",FOX Sacramento
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41886
-#EXTINF:-1 group-title="Entertainment",FOX Salt Lake City
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Salt Lake City" tvg-logo="" group-title="Entertainment",FOX Salt Lake City
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42017
-#EXTINF:-1 group-title="Entertainment",FOX San Diego
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX San Diego" tvg-logo="" group-title="Entertainment",FOX San Diego
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41890
-#EXTINF:-1 group-title="Entertainment",FOX St. Louis
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX St. Louis" tvg-logo="" group-title="Entertainment",FOX St. Louis
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41940
-#EXTINF:-1 group-title="Entertainment",FOX Toledo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Toledo" tvg-logo="" group-title="Entertainment",FOX Toledo
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41960
-#EXTINF:-1 group-title="Regional ",FOX Tucson
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41873
-#EXTINF:-1 group-title="Regional ",FOX Tulsa
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41967
-#EXTINF:-1 group-title="Regional ",FOX Washington D.C.
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42020
-#EXTINF:-1 group-title="Regional ",KTLA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449503
-#EXTINF:-1 group-title="Regional ",MY33 Miami
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41910
-#EXTINF:-1 group-title="Regional ",MY38 Boston
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41930
-#EXTINF:-1 group-title="Regional ",NBC Austin
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41998
-#EXTINF:-1 group-title="Regional ",NBC Baltimore
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41933
-#EXTINF:-1 group-title="Regional ",NBC Boise
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41919
-#EXTINF:-1 group-title="Regional ",NBC Charleston
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41980
-#EXTINF:-1 group-title="Regional ",NBC Charlotte
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41943
-#EXTINF:-1 group-title="Regional ",NBC Cleveland
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41955
-#EXTINF:-1 group-title="Regional ",NBC Columbus
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41958
-#EXTINF:-1 group-title="Regional ",NBC Corpus Christi
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42001
-#EXTINF:-1 group-title="Regional ",NBC Denver
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28075
-#EXTINF:-1 group-title="Regional ",NBC Des Moines
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41916
-#EXTINF:-1 group-title="Regional ",NBC El Paso
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42005
-#EXTINF:-1 group-title="Regional ",NBC Fort Worth
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42007
-#EXTINF:-1 group-title="Regional ",NBC Greenville
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41984
-#EXTINF:-1 group-title="Regional ",NBC Houston
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42011
-#EXTINF:-1 group-title="Regional ",NBC Indianapolis
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41922
-#EXTINF:-1 group-title="Regional ",NBC Jacksonville
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41908
-#EXTINF:-1 group-title="Regional ",NBC Knoxville
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41991
-#EXTINF:-1 group-title="Regional ",NBC Las Vegas
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41948
-#EXTINF:-1 group-title="Regional ",NBC Los Angeles
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41883
-#EXTINF:-1 group-title="Regional ",NBC Louisville
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41926
-#EXTINF:-1 group-title="Regional ",NBC Memphis
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41993
-#EXTINF:-1 group-title="Regional ",NBC Milwaukee
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42025
-#EXTINF:-1 group-title="Regional ",NBC Mobile
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41867
-#EXTINF:-1 group-title="Regional ",NBC Nashville
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41995
-#EXTINF:-1 group-title="Regional ",NBC New Orleans
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41928
-#EXTINF:-1 group-title="Regional ",NBC 12 Phoenix
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25124
-#EXTINF:-1 group-title="Regional ",NBC Providence
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41976
-#EXTINF:-1 group-title="Regional ",NBC Sacramento
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41887
-#EXTINF:-1 group-title="Regional ",NBC San Antonio
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42013
-#EXTINF:-1 group-title="Regional ",NBC San Diego
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41891
-#EXTINF:-1 group-title="Regional ",NBC Seattle
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42022
-#EXTINF:-1 group-title="Regional ",NBC Tampa
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41913
-#EXTINF:-1 group-title="Regional ",NBC Toledo
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41961
-#EXTINF:-1 group-title="Regional ",NBC Tucson
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41874
-#EXTINF:-1 group-title="Regional ",NBC Tulsa
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41965
-#EXTINF:-1 group-title="Regional ",Telemundo Chicago
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41920
-#EXTINF:-1 group-title="Regional ",Telemundo Colorado Springs
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41900
-#EXTINF:-1 group-title="Regional ",Telemundo Dallas
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42003
-#EXTINF:-1 group-title="Regional ",Telemundo Denver
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41901
-#EXTINF:-1 group-title="Regional ",Telemundo Phoenix
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41871
-#EXTINF:-1 group-title="Regional ",Telemundo Sacramento
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41888
-#EXTINF:-1 group-title="Regional ",Telemundo San Antonio
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42014
-#EXTINF:-1 group-title="Regional ",Telemundo Tampa
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41914
-#EXTINF:-1 group-title="Regional ",Telemundo Tucson
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
-#EXTINF:-1 group-title="Regional ",Telemundo Tulsa
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41966
-#EXTINF:-1 group-title="Regional ",Telemundo Washington D.C.
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42021
-#EXTINF:-1 group-title="Regional ",Unimas Austin
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41999
-#EXTINF:-1 group-title="Regional ",Unimas LA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27110
-#EXTINF:-1 group-title="Regional ",Unimas Philadelphia
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41971
-#EXTINF:-1 group-title="Regional ",Univision Cleveland
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41956
-#EXTINF:-1 group-title="Regional ",Univision Los Angeles
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41884
-#EXTINF:-1 group-title="Regional ",Univision Miami
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41911
-#EXTINF:-1 group-title="Regional ",Univision New York
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41953
-#EXTINF:-1 group-title="Regional ",Univision Philadelphia
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41946
-#EXTINF:-1 group-title="Regional ",Univision San Antonio
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42015
-#EXTINF:-1 group-title="Regional ",Univision San Francisco
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41894
-#EXTINF:-1 group-title="Regional ",ABC 23 Eureka, CA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/465101
-#EXTINF:-1 group-title="Regional ",CBS 14 Eureka, CA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/465102
-#EXTINF:-1 group-title="Regional ",FOX 28 Eureka, CA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/465103
-#EXTINF:-1 group-title="Regional ",NBC 3 Eureka, CA
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/465104
-#EXTINF:-1 group-title="Regional ",ABC San Diego
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520012
-#EXTINF:-1 group-title="Regional ",ABC 7 Los Angeles
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/874320
-#EXTINF:-1 group-title="Regional ",CBS Las Vegas
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/928620
-#EXTINF:-1 group-title="Regional ",ABC Las Vegas
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/928621
-#EXTINF:-1 group-title="Regional ",FOX Las Vegas
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/928622
-#EXTINF:-1 group-title="Regional ",ABC San Francisco
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/940518
-#EXTINF:-1 group-title="News", ABC Tucson
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/940520
-#EXTINF:-1 group-title="News", ABC 10 Miami
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Freeform HD" tvg-logo="" group-title="Entertainment",Freeform HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12755
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Frudy" tvg-logo="" group-title="Entertainment",Frudy
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022937
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuse HD" tvg-logo="" group-title="Entertainment",Fuse HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12754
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX HD" tvg-logo="" group-title="Entertainment",FX HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12752
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXX HD" tvg-logo="" group-title="Entertainment",FXX HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12751
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Great American Country (GAC)" tvg-logo="" group-title="Entertainment",Great American Country (GAC)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28878
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Grit TV" tvg-logo="" group-title="Entertainment",Grit TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12746
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GSN" tvg-logo="" group-title="Entertainment",GSN
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12747
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallmark Drama" tvg-logo="" group-title="Entertainment",Hallmark Drama
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26496
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallmark HD" tvg-logo="" group-title="Entertainment",Hallmark HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12745
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallmark M&M HD" tvg-logo="" group-title="Entertainment",Hallmark M&M HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12744
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heroes & Icons" tvg-logo="" group-title="Entertainment",Heroes & Icons
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022427
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV HD" tvg-logo="" group-title="Entertainment",HGTV HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12737
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ion Television" tvg-logo="" group-title="Entertainment",Ion Television
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12735
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IP FAMBA" tvg-logo="" group-title="Entertainment",IP FAMBA
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022931
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Laff" tvg-logo="" group-title="Entertainment",Laff
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471429
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Look At Me" tvg-logo="" group-title="Entertainment",Look At Me
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022938
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magnolia Network" tvg-logo="" group-title="Entertainment",Magnolia Network
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12762
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Me TV" tvg-logo="" group-title="Entertainment",Me TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12730
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Only Good TV" tvg-logo="" group-title="Entertainment",Only Good TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022932
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ovation Channel" tvg-logo="" group-title="Entertainment",Ovation Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28871
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OWN HD" tvg-logo="" group-title="Entertainment",OWN HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12716
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oxygen HD" tvg-logo="" group-title="Entertainment",Oxygen HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12715
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Network" tvg-logo="" group-title="Entertainment",Paramount Network
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12714
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paranormal HQ" tvg-logo="" group-title="Entertainment",Paranormal HQ
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022918
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pursuit Channel" tvg-logo="" group-title="Entertainment",Pursuit Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28873
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOxBET" tvg-logo="" group-title="Entertainment",SHOxBET
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/487943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sundance TV" tvg-logo="" group-title="Entertainment",Sundance TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26515
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy HD" tvg-logo="" group-title="Entertainment",Syfy HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12698
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS HD" tvg-logo="" group-title="Entertainment",TBS HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12697
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo HD" tvg-logo="" group-title="Entertainment",Telemundo HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25340
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="Entertainment",TLC
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12695
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT HD" tvg-logo="" group-title="Entertainment",TNT HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12694
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel" tvg-logo="" group-title="Entertainment",Travel Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12693
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tru TV HD" tvg-logo="" group-title="Entertainment",Tru TV HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12692
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Land HD" tvg-logo="" group-title="Entertainment",TV Land HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12691
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV One" tvg-logo="" group-title="Entertainment",TV One
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12690
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision" tvg-logo="" group-title="Entertainment",Univision
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Network HD" tvg-logo="" group-title="Entertainment",USA Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12689
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WE TV" tvg-logo="" group-title="Entertainment",WE TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12684
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WGN Chicago" tvg-logo="" group-title="Entertainment",WGN Chicago
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12680
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cooking Channel HD" tvg-logo="" group-title="Food",Cooking Channel HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12770
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network HD" tvg-logo="" group-title="Food",Food Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12758
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FYI HD" tvg-logo="" group-title="Food",FYI HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12748
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang HD" tvg-logo="" group-title="Kids",Boomerang HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12784
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Kids",Cartoon Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12780
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior" tvg-logo="" group-title="Kids",Disney Junior
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="" group-title="Kids",Disney XD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kidz Only!" tvg-logo="" group-title="Kids",Kidz Only!
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25688
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="Kids",Nick Jr
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12717
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickeloden" tvg-logo="" group-title="Kids",Nickeloden
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12719
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nicktoons" tvg-logo="" group-title="Kids",Nicktoons
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12718
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS Kids HD" tvg-logo="" group-title="Kids",PBS Kids HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12713
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teen Nick" tvg-logo="" group-title="Kids",Teen Nick
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22629
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Land of Floof" tvg-logo="" group-title="Lifestyle",Land of Floof
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022933
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOMADslow tv" tvg-logo="" group-title="Lifestyle",NOMADslow tv
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022930
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Health Channel" tvg-logo="" group-title="Lifestyle",The Health Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022922
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5StarMax" tvg-logo="" group-title="Movies",5StarMax
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457903
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Actionmax  HD" tvg-logo="" group-title="Movies",Actionmax  HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12794
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax HD" tvg-logo="" group-title="Movies",Cinemax HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12777
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax Moremax HD" tvg-logo="" group-title="Movies",Cinemax Moremax HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12727
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax Outermax HD" tvg-logo="" group-title="Movies",Cinemax Outermax HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12776
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax Thriller HD" tvg-logo="" group-title="Movies",Cinemax Thriller HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12775
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FlixHouse Action" tvg-logo="" group-title="Movies",FlixHouse Action
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022926
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FlixHouse Crime & Thrillers" tvg-logo="" group-title="Movies",FlixHouse Crime & Thrillers
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022927
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FlixHouse Horror" tvg-logo="" group-title="Movies",FlixHouse Horror
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022928
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FXM HD" tvg-logo="" group-title="Movies",FXM HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12750
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 2" tvg-logo="" group-title="Movies",HBO 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12796
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Comedy HD" tvg-logo="" group-title="Movies",HBO Comedy HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12739
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family HD" tvg-logo="" group-title="Movies",HBO Family HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12741
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="" group-title="Movies",HBO HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12743
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature HD" tvg-logo="" group-title="Movies",HBO Signature HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12740
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Zone HD" tvg-logo="" group-title="Movies",HBO Zone HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12742
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HDNet Movies" tvg-logo="" group-title="Movies",HDNet Movies
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421507
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IFC HD" tvg-logo="" group-title="Movies",IFC HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12733
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IndieBox" tvg-logo="" group-title="Movies",IndieBox
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022929
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indieplex" tvg-logo="" group-title="Movies",Indieplex
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421499
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime HD" tvg-logo="" group-title="Movies",Lifetime HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12732
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime Movies HD" tvg-logo="" group-title="Movies",Lifetime Movies HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12731
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM+" tvg-logo="" group-title="Movies",MGM+
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421495
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM+ Drive-In" tvg-logo="" group-title="Movies",MGM+ Drive-In
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421449
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM+ Hits" tvg-logo="" group-title="Movies",MGM+ Hits
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12759
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM+ Marquee" tvg-logo="" group-title="Movies",MGM+ Marquee
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421506
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MovieMax" tvg-logo="" group-title="Movies",MovieMax
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457904
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movieplex" tvg-logo="" group-title="Movies",Movieplex
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421515
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PixL" tvg-logo="" group-title="Movies",PixL
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/164718
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retroplex" tvg-logo="" group-title="Movies",Retroplex
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421505
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime" tvg-logo="" group-title="Movies",Showtime
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12709
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime 2 HD" tvg-logo="" group-title="Movies",Showtime 2 HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12708
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Extreme HD" tvg-logo="" group-title="Movies",Showtime Extreme HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12707
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Family Zone" tvg-logo="" group-title="Movies",Showtime Family Zone
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22636
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Next" tvg-logo="" group-title="Movies",Showtime Next
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24861
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Showcase" tvg-logo="" group-title="Movies",Showtime Showcase
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Women" tvg-logo="" group-title="Movies",Showtime Women
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22635
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Movie Channel" tvg-logo="" group-title="Movies",Sony Movie Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26820
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz" tvg-logo="" group-title="Movies",Starz
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12704
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Cinema" tvg-logo="" group-title="Movies",Starz Cinema
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421446
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Comedy" tvg-logo="" group-title="Movies",Starz Comedy
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12703
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Edge" tvg-logo="" group-title="Movies",Starz Edge
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12702
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore" tvg-logo="" group-title="Movies",Starz Encore
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22639
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Action" tvg-logo="" group-title="Movies",Starz Encore Action
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421503
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Black" tvg-logo="" group-title="Movies",Starz Encore Black
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421450
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Classic" tvg-logo="" group-title="Movies",Starz Encore Classic
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421452
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Family" tvg-logo="" group-title="Movies",Starz Encore Family
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421451
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Suspense" tvg-logo="" group-title="Movies",Starz Encore Suspense
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22638
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Western" tvg-logo="" group-title="Movies",Starz Encore Western
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12701
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz in Black" tvg-logo="" group-title="Movies",Starz in Black
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22640
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Kids and Family" tvg-logo="" group-title="Movies",Starz Kids and Family
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12699
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM HD" tvg-logo="" group-title="Movies",TCM HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12696
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Movie Channel" tvg-logo="" group-title="Movies",The Movie Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22557
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Movie Channel Xtra" tvg-logo="" group-title="Movies",The Movie Channel Xtra
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22556
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=""70's"" tvg-logo="" group-title="Music","70's"
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28994
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=""80's"" tvg-logo="" group-title="Music","80's"
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=""90's"" tvg-logo="" group-title="Music","90's"
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1 AM Radio" tvg-logo="" group-title="Music",1 AM Radio
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Backyard BBQ" tvg-logo="" group-title="Music",Backyard BBQ
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28984
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bet Jams" tvg-logo="" group-title="Music",Bet Jams
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22619
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bet Soul" tvg-logo="" group-title="Music",Bet Soul
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cadillacc Music" tvg-logo="" group-title="Music",Cadillacc Music
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Church of Rock & Roll" tvg-logo="" group-title="Music",Church of Rock & Roll
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28999
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance EDM" tvg-logo="" group-title="Music",Dance EDM
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25676
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dash Hits" tvg-logo="" group-title="Music",Dash Hits
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28985
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Delicious Vinyl Radio" tvg-logo="" group-title="Music",Delicious Vinyl Radio
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/29000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disco Fever" tvg-logo="" group-title="Music",Disco Fever
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/29003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doggystyle" tvg-logo="" group-title="Music",Doggystyle
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28988
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Electro City" tvg-logo="" group-title="Music",Electro City
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28983
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuego" tvg-logo="" group-title="Music",Fuego
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28981
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fusion" tvg-logo="" group-title="Music",Fusion
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28993
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hip Hop & R & B" tvg-logo="" group-title="Music",Hip Hop & R & B
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25675
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hit List" tvg-logo="" group-title="Music",Hit List
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Island of Chacha" tvg-logo="" group-title="Music",Island of Chacha
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28903
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Isla" tvg-logo="" group-title="Music",La Isla
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Songs" tvg-logo="" group-title="Music",Love Songs
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/29004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mexicana" tvg-logo="" group-title="Music",Mexicana
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25684
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="Music",MTV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12726
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 2" tvg-logo="" group-title="Music",MTV 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22631
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28271
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live" tvg-logo="" group-title="Music",MTV Live
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28270
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV U" tvg-logo="" group-title="Music",MTV U
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28269
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paradise City" tvg-logo="" group-title="Music",Paradise City
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28997
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop & Country" tvg-logo="" group-title="Music",Pop & Country
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25683
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Hits" tvg-logo="" group-title="Music",Pop Hits
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25682
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop Latino" tvg-logo="" group-title="Music",Pop Latino
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25674
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pure Soul Powered By Isaac Hayes" tvg-logo="" group-title="Music",Pure Soul Powered By Isaac Hayes
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28987
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="R&B Soul" tvg-logo="" group-title="Music",R&B Soul
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25672
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rap" tvg-logo="" group-title="Music",Rap
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25681
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rap 2K" tvg-logo="" group-title="Music",Rap 2K
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25680
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ratpack" tvg-logo="" group-title="Music",Ratpack
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28995
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reggae King" tvg-logo="" group-title="Music",Reggae King
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28998
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock" tvg-logo="" group-title="Music",Rock
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25679
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKEENET" tvg-logo="" group-title="Music",SKEENET
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28989
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teen Beats" tvg-logo="" group-title="Music",Teen Beats
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25678
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Oldies" tvg-logo="" group-title="Music",The Oldies
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/29002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Strip" tvg-logo="" group-title="Music",The Strip
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28996
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Throwback Jamz" tvg-logo="" group-title="Music",Throwback Jamz
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25677
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tropicales" tvg-logo="" group-title="Music",Tropicales
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25687
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="" group-title="Music",VH1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="What The Funk" tvg-logo="" group-title="Music",What The Funk
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Y2K" tvg-logo="" group-title="Music",Y2K
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28982
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Young Money" tvg-logo="" group-title="Music",Young Money
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28978
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC 10 Miami" tvg-logo="" group-title="News",ABC 10 Miami
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18338
-#EXTINF:-1 group-title="News", ABC 6 Philadelphia HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC 6 Philadelphia HD" tvg-logo="" group-title="News",ABC 6 Philadelphia HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18336
-#EXTINF:-1 group-title="News", ABC 7 New York HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18337
-#EXTINF:-1 group-title="News", ABC Atlanta
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28084
-#EXTINF:-1 group-title="News", ABC Boston
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28081
-#EXTINF:-1 group-title="News", ABC Cleveland
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457914
-#EXTINF:-1 group-title="News", ABC Detroit
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28077
-#EXTINF:-1 group-title="News", CBS 4 New York
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28085
-#EXTINF:-1 group-title="News", CBS Atlanta
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18331
-#EXTINF:-1 group-title="News", CBS Boston
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18329
-#EXTINF:-1 group-title="News", CBS Cincinnati OH
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26863
-#EXTINF:-1 group-title="News", CBS Cleveland
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26859
-#EXTINF:-1 group-title="News", CBS Detroit
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28078
-#EXTINF:-1 group-title="News", CBS Philadelphia
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28082
-#EXTINF:-1 group-title="News", FOX 5 Atlanta
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18321
-#EXTINF:-1 group-title="News", FOX 7 Miami HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18316
-#EXTINF:-1 group-title="News", FOX Boston
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18320
-#EXTINF:-1 group-title="News", FOX Cincinnati
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28079
-#EXTINF:-1 group-title="News", FOX Detroit
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26939
-#EXTINF:-1 group-title="News", FOX New York
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28086
-#EXTINF:-1 group-title="News", FOX Philadelphia
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18313
-#EXTINF:-1 group-title="News", NBC 4 D.C.
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457908
-#EXTINF:-1 group-title="News", NBC Atlanta
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18311
-#EXTINF:-1 group-title="News", NBC Boston
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18310
-#EXTINF:-1 group-title="News", NBC Cincinnati
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28080
-#EXTINF:-1 group-title="News", NBC Detroit
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26938
-#EXTINF:-1 group-title="News", NBC Miami
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18307
-#EXTINF:-1 group-title="News", NBC New York
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18305
-#EXTINF:-1 group-title="News", NBC Philadelphia
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28083
-#EXTINF:-1 group-title="News", News12 New Jersey 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457909
-#EXTINF:-1 group-title="News", UNIMAS Miami
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27059
-#EXTINF:-1 group-title="News", UNIVISION Atlanta
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27064
-#EXTINF:-1 group-title="News", News12 Long Island
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/466140
-#EXTINF:-1 group-title="News", NBC Myrtle Beach
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/466146
-#EXTINF:-1 group-title="News", CBS Dayton OH
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/489657
-#EXTINF:-1 group-title="News", CBS Rochester, NY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/491072
-#EXTINF:-1 group-title="News", NBC Rochester, NY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/491073
-#EXTINF:-1 group-title="News", ABC Indianapolis
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520009
-#EXTINF:-1 group-title="News", ABC Pittsburgh
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520010
-#EXTINF:-1 group-title="News", ABC Columbia
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520014
-#EXTINF:-1 group-title="News", ABC Cincinnati
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520015
-#EXTINF:-1 group-title="News", ABC Charlotte
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520018
-#EXTINF:-1 group-title="News", ABC Baltimore
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520019
-#EXTINF:-1 group-title="News", ABC Columbus
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520020
-#EXTINF:-1 group-title="News", ABC Louisville
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520021
-#EXTINF:-1 group-title="News", ABC Nashville
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520022
-#EXTINF:-1 group-title="News", CBS 2 New York
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/922238
-#EXTINF:-1 group-title="News", News12 Westchester
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/922239
-#EXTINF:-1 group-title="News", FOX Baltimore
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/930835
-#EXTINF:-1 group-title="News", ABC Tampa
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/940519
-#EXTINF:-1 group-title="News", ABC Lexington, KY
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/941192
-#EXTINF:-1 group-title="News", ABC Jacksonville
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/986057
-#EXTINF:-1 group-title="News", CBS 4 Indianapolis
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1006788
-#EXTINF:-1 group-title="News", ABC 7 Chicago HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC 7 Chicago HD" tvg-logo="" group-title="News",ABC 7 Chicago HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18361
-#EXTINF:-1 group-title="News", ABC 8 Dallas HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC 7 New York HD" tvg-logo="" group-title="News",ABC 7 New York HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC 8 Dallas HD" tvg-logo="" group-title="News",ABC 8 Dallas HD
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18359
-#EXTINF:-1 group-title="News", ABC Kansas City
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26876
-#EXTINF:-1 group-title="News", CBS 2 Chicago HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18355
-#EXTINF:-1 group-title="News", CBS Dallas
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26916
-#EXTINF:-1 group-title="News", CBS Kansas City
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26874
-#EXTINF:-1 group-title="News", FOX Chicago
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18350
-#EXTINF:-1 group-title="News", FOX Dallas
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26915
-#EXTINF:-1 group-title="News", NBC 5 Chicago HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18344
-#EXTINF:-1 group-title="News", NBC 5 Dallas HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18343
-#EXTINF:-1 group-title="News", NBC Kansas City
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28076
-#EXTINF:-1 group-title="News", ABC San Antonio
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/466141
-#EXTINF:-1 group-title="News", ABC Houston
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520008
-#EXTINF:-1 group-title="News", ABC Austin
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Atlanta" tvg-logo="" group-title="News",ABC Atlanta
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Austin" tvg-logo="" group-title="News",ABC Austin
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520017
-#EXTINF:-1 group-title="Sports", NHL 9 HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26953
-#EXTINF:-1 group-title="Sports", USA Real NHL 59
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022834
-#EXTINF:-1 group-title="Sports", Real NHL
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022835
-#EXTINF:-1 group-title="Other", EVENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Baltimore" tvg-logo="" group-title="News",ABC Baltimore
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520019
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Boston" tvg-logo="" group-title="News",ABC Boston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Charlotte" tvg-logo="" group-title="News",ABC Charlotte
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520018
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Cincinnati" tvg-logo="" group-title="News",ABC Cincinnati
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520015
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Cleveland" tvg-logo="" group-title="News",ABC Cleveland
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457914
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Columbia" tvg-logo="" group-title="News",ABC Columbia
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Columbus" tvg-logo="" group-title="News",ABC Columbus
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520020
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Detroit" tvg-logo="" group-title="News",ABC Detroit
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Houston" tvg-logo="" group-title="News",ABC Houston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Indianapolis" tvg-logo="" group-title="News",ABC Indianapolis
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Jacksonville" tvg-logo="" group-title="News",ABC Jacksonville
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/986057
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Kansas City" tvg-logo="" group-title="News",ABC Kansas City
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26876
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Louisville" tvg-logo="" group-title="News",ABC Louisville
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Nashville" tvg-logo="" group-title="News",ABC Nashville
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Pittsburgh" tvg-logo="" group-title="News",ABC Pittsburgh
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC San Antonio" tvg-logo="" group-title="News",ABC San Antonio
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/466141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Tampa" tvg-logo="" group-title="News",ABC Tampa
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/940519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Tucson" tvg-logo="" group-title="News",ABC Tucson
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/940520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black News Channel" tvg-logo="" group-title="News",Black News Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449199
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="" group-title="News",Bloomberg
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12781
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS 2 Chicago HD" tvg-logo="" group-title="News",CBS 2 Chicago HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS 2 New York" tvg-logo="" group-title="News",CBS 2 New York
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/922238
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS 4 Indianapolis" tvg-logo="" group-title="News",CBS 4 Indianapolis
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1006788
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS 4 New York" tvg-logo="" group-title="News",CBS 4 New York
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28085
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Atlanta" tvg-logo="" group-title="News",CBS Atlanta
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18331
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Boston" tvg-logo="" group-title="News",CBS Boston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18329
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Cincinnati OH" tvg-logo="" group-title="News",CBS Cincinnati OH
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26863
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Cleveland" tvg-logo="" group-title="News",CBS Cleveland
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26859
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Dallas" tvg-logo="" group-title="News",CBS Dallas
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Dayton OH" tvg-logo="" group-title="News",CBS Dayton OH
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/489657
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Detroit" tvg-logo="" group-title="News",CBS Detroit
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Kansas City" tvg-logo="" group-title="News",CBS Kansas City
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26874
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Philadelphia" tvg-logo="" group-title="News",CBS Philadelphia
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cheddar" tvg-logo="" group-title="News",Cheddar
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/44386
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC HD" tvg-logo="" group-title="News",CNBC HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12774
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC World HD" tvg-logo="" group-title="News",CNBC World HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12773
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN HD" tvg-logo="" group-title="News",CNN HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12772
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Daily Flash" tvg-logo="" group-title="News",Daily Flash
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 5 Atlanta" tvg-logo="" group-title="News",FOX 5 Atlanta
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18321
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 7 Miami HD" tvg-logo="" group-title="News",FOX 7 Miami HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18316
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Baltimore" tvg-logo="" group-title="News",FOX Baltimore
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/930835
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Boston" tvg-logo="" group-title="News",FOX Boston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Business" tvg-logo="" group-title="News",Fox Business
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Chicago" tvg-logo="" group-title="News",FOX Chicago
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18350
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Cincinnati" tvg-logo="" group-title="News",FOX Cincinnati
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Dallas" tvg-logo="" group-title="News",FOX Dallas
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26915
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Detroit" tvg-logo="" group-title="News",FOX Detroit
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26939
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX New York" tvg-logo="" group-title="News",FOX New York
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News HD" tvg-logo="" group-title="News",Fox News HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12756
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Philadelphia" tvg-logo="" group-title="News",FOX Philadelphia
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18313
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HLN HD" tvg-logo="" group-title="News",HLN HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12736
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KY" tvg-logo="" group-title="News",KY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/941192
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Law & Crime Network" tvg-logo="" group-title="News",Law & Crime Network
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC HD" tvg-logo="" group-title="News",MSNBC HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12725
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC 4 D.C." tvg-logo="" group-title="News",NBC 4 D.C.
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC 5 Chicago HD" tvg-logo="" group-title="News",NBC 5 Chicago HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC 5 Dallas HD" tvg-logo="" group-title="News",NBC 5 Dallas HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Atlanta" tvg-logo="" group-title="News",NBC Atlanta
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18311
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Boston" tvg-logo="" group-title="News",NBC Boston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18310
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Cincinnati" tvg-logo="" group-title="News",NBC Cincinnati
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Detroit" tvg-logo="" group-title="News",NBC Detroit
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26938
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Kansas City" tvg-logo="" group-title="News",NBC Kansas City
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Miami" tvg-logo="" group-title="News",NBC Miami
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18307
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Myrtle Beach" tvg-logo="" group-title="News",NBC Myrtle Beach
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/466146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC New York" tvg-logo="" group-title="News",NBC New York
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/18305
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Philadelphia" tvg-logo="" group-title="News",NBC Philadelphia
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News12 Long Island" tvg-logo="" group-title="News",News12 Long Island
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/466140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News12 New Jersey" tvg-logo="" group-title="News",News12 New Jersey
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/457909
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News12 Westchester" tvg-logo="" group-title="News",News12 Westchester
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/922239
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWSnet" tvg-logo="" group-title="News",NEWSnet
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022920
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Newsy" tvg-logo="" group-title="News",Newsy
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28877
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NY" tvg-logo="" group-title="News",NY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/491072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NY" tvg-logo="" group-title="News",NY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/491073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OAN Plus" tvg-logo="" group-title="News",OAN Plus
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022936
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One America News (OAN)" tvg-logo="" group-title="News",One America News (OAN)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28872
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS New York" tvg-logo="" group-title="News",PBS New York
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/471432
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIMAS Miami" tvg-logo="" group-title="News",UNIMAS Miami
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27059
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION Atlanta" tvg-logo="" group-title="News",UNIVISION Atlanta
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weather Channel HD" tvg-logo="" group-title="News",Weather Channel HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12681
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EVENT" tvg-logo="" group-title="Other",EVENT
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022735
-#EXTINF:-1 group-title="Other", PPV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV" tvg-logo="" group-title="Other",PPV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022705
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC 7 Los Angeles" tvg-logo="" group-title="Regional",ABC 7 Los Angeles
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/874320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC Las Vegas" tvg-logo="" group-title="Regional",ABC Las Vegas
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/928621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC San Diego" tvg-logo="" group-title="Regional",ABC San Diego
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/520012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC San Francisco" tvg-logo="" group-title="Regional",ABC San Francisco
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/940518
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Las Vegas" tvg-logo="" group-title="Regional",CBS Las Vegas
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/928620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Las Vegas" tvg-logo="" group-title="Regional",FOX Las Vegas
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/928622
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Tucson" tvg-logo="" group-title="Regional",FOX Tucson
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41873
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Tulsa" tvg-logo="" group-title="Regional",FOX Tulsa
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41967
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Washington D.C." tvg-logo="" group-title="Regional",FOX Washington D.C.
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42020
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTLA" tvg-logo="" group-title="Regional",KTLA
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449503
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY33 Miami" tvg-logo="" group-title="Regional",MY33 Miami
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41910
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY38 Boston" tvg-logo="" group-title="Regional",MY38 Boston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41930
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC 12 Phoenix" tvg-logo="" group-title="Regional",NBC 12 Phoenix
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Austin" tvg-logo="" group-title="Regional",NBC Austin
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41998
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Baltimore" tvg-logo="" group-title="Regional",NBC Baltimore
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41933
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Boise" tvg-logo="" group-title="Regional",NBC Boise
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41919
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Charleston" tvg-logo="" group-title="Regional",NBC Charleston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41980
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Charlotte" tvg-logo="" group-title="Regional",NBC Charlotte
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41943
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Cleveland" tvg-logo="" group-title="Regional",NBC Cleveland
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41955
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Columbus" tvg-logo="" group-title="Regional",NBC Columbus
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41958
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Corpus Christi" tvg-logo="" group-title="Regional",NBC Corpus Christi
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Denver" tvg-logo="" group-title="Regional",NBC Denver
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Des Moines" tvg-logo="" group-title="Regional",NBC Des Moines
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41916
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC El Paso" tvg-logo="" group-title="Regional",NBC El Paso
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Fort Worth" tvg-logo="" group-title="Regional",NBC Fort Worth
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Greenville" tvg-logo="" group-title="Regional",NBC Greenville
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41984
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Houston" tvg-logo="" group-title="Regional",NBC Houston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42011
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Indianapolis" tvg-logo="" group-title="Regional",NBC Indianapolis
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41922
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Jacksonville" tvg-logo="" group-title="Regional",NBC Jacksonville
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Knoxville" tvg-logo="" group-title="Regional",NBC Knoxville
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Las Vegas" tvg-logo="" group-title="Regional",NBC Las Vegas
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41948
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Los Angeles" tvg-logo="" group-title="Regional",NBC Los Angeles
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41883
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Louisville" tvg-logo="" group-title="Regional",NBC Louisville
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41926
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Memphis" tvg-logo="" group-title="Regional",NBC Memphis
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41993
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Milwaukee" tvg-logo="" group-title="Regional",NBC Milwaukee
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42025
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Mobile" tvg-logo="" group-title="Regional",NBC Mobile
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41867
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Nashville" tvg-logo="" group-title="Regional",NBC Nashville
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41995
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC New Orleans" tvg-logo="" group-title="Regional",NBC New Orleans
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41928
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Providence" tvg-logo="" group-title="Regional",NBC Providence
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41976
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sacramento" tvg-logo="" group-title="Regional",NBC Sacramento
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41887
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC San Antonio" tvg-logo="" group-title="Regional",NBC San Antonio
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC San Diego" tvg-logo="" group-title="Regional",NBC San Diego
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41891
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Seattle" tvg-logo="" group-title="Regional",NBC Seattle
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Tampa" tvg-logo="" group-title="Regional",NBC Tampa
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41913
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Toledo" tvg-logo="" group-title="Regional",NBC Toledo
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41961
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Tucson" tvg-logo="" group-title="Regional",NBC Tucson
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41874
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Tulsa" tvg-logo="" group-title="Regional",NBC Tulsa
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41965
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Chicago" tvg-logo="" group-title="Regional",Telemundo Chicago
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41920
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Colorado Springs" tvg-logo="" group-title="Regional",Telemundo Colorado Springs
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41900
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Dallas" tvg-logo="" group-title="Regional",Telemundo Dallas
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Denver" tvg-logo="" group-title="Regional",Telemundo Denver
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41901
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Phoenix" tvg-logo="" group-title="Regional",Telemundo Phoenix
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41871
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Sacramento" tvg-logo="" group-title="Regional",Telemundo Sacramento
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41888
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo San Antonio" tvg-logo="" group-title="Regional",Telemundo San Antonio
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Tampa" tvg-logo="" group-title="Regional",Telemundo Tampa
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41914
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Tucson" tvg-logo="" group-title="Regional",Telemundo Tucson
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Tulsa" tvg-logo="" group-title="Regional",Telemundo Tulsa
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41966
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemundo Washington D.C." tvg-logo="" group-title="Regional",Telemundo Washington D.C.
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42021
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unimas Austin" tvg-logo="" group-title="Regional",Unimas Austin
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41999
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unimas LA" tvg-logo="" group-title="Regional",Unimas LA
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unimas Philadelphia" tvg-logo="" group-title="Regional",Unimas Philadelphia
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision Cleveland" tvg-logo="" group-title="Regional",Univision Cleveland
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41956
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision Los Angeles" tvg-logo="" group-title="Regional",Univision Los Angeles
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision Miami" tvg-logo="" group-title="Regional",Univision Miami
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41911
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision New York" tvg-logo="" group-title="Regional",Univision New York
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41953
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision Philadelphia" tvg-logo="" group-title="Regional",Univision Philadelphia
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41946
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision San Antonio" tvg-logo="" group-title="Regional",Univision San Antonio
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/42015
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Univision San Francisco" tvg-logo="" group-title="Regional",Univision San Francisco
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41894
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HSN" tvg-logo="" group-title="Shopping",HSN
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/449183
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACC Network" tvg-logo="" group-title="Sports",ACC Network
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26696
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Arizona" tvg-logo="" group-title="Sports",Bally Sports Arizona
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15905
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Detroit" tvg-logo="" group-title="Sports",Bally Sports Detroit
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15904
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Florida" tvg-logo="" group-title="Sports",Bally Sports Florida
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26913
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Indiana" tvg-logo="" group-title="Sports",Bally Sports Indiana
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26805
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Midwest" tvg-logo="" group-title="Sports",Bally Sports Midwest
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15903
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports New Orleans" tvg-logo="" group-title="Sports",Bally Sports New Orleans
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26801
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports North" tvg-logo="" group-title="Sports",Bally Sports North
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25331
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Ohio" tvg-logo="" group-title="Sports",Bally Sports Ohio
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25332
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Oklahoma" tvg-logo="" group-title="Sports",Bally Sports Oklahoma
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26803
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports San Diego" tvg-logo="" group-title="Sports",Bally Sports San Diego
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports South" tvg-logo="" group-title="Sports",Bally Sports South
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25334
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Southeast" tvg-logo="" group-title="Sports",Bally Sports Southeast
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25335
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Sun" tvg-logo="" group-title="Sports",Bally Sports Sun
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26912
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports West" tvg-logo="" group-title="Sports",Bally Sports West
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/931168
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Wisconsin" tvg-logo="" group-title="Sports",Bally Sports Wisconsin
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26817
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Ten Network HD" tvg-logo="" group-title="Sports",Big Ten Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15978
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation (UK)" tvg-logo="" group-title="Sports",Box Nation (UK)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20826
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN (UK)" tvg-logo="" group-title="Sports",BT Sport ESPN (UK)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24304
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports HD" tvg-logo="" group-title="Sports",CBS Sports HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15977
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CFL 04" tvg-logo="" group-title="Sports",CFL 04
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022447
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN (AU)" tvg-logo="" group-title="Sports",ESPN (AU)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28393
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Sports",ESPN 2 HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15974
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Deportes HD" tvg-logo="" group-title="Sports",ESPN Deportes HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN HD" tvg-logo="" group-title="Sports",ESPN HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15976
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN News HD" tvg-logo="" group-title="Sports",ESPN News HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15975
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN U HD" tvg-logo="" group-title="Sports",ESPN U HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15972
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2 (AU)" tvg-logo="" group-title="Sports",ESPN2 (AU)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28398
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Network (CA)" tvg-logo="" group-title="Sports",Fight Network (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21426
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FiredUp Network" tvg-logo="" group-title="Sports",FiredUp Network
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022919
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flow Sports 1 (Caribbean)" tvg-logo="" group-title="Sports",Flow Sports 1 (Caribbean)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28139
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Cricket (AU)" tvg-logo="" group-title="Sports",Fox Cricket (AU)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28399
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Deportes" tvg-logo="" group-title="Sports",Fox Deportes
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25341
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports (AU)" tvg-logo="" group-title="Sports",Fox Sports (AU)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28400
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports",Fox Sports 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="Sports",Fox Sports 2 HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15906
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Southwest" tvg-logo="" group-title="Sports",Fox Sports Southwest
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25336
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ginx" tvg-logo="" group-title="Sports",Ginx
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/67098
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Longhorn HD" tvg-logo="" group-title="Sports",Longhorn HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15899
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marquee Sports Net" tvg-logo="" group-title="Sports",Marquee Sports Net
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/55637
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAV TV" tvg-logo="" group-title="Sports",MAV TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network HD" tvg-logo="" group-title="Sports",MLB Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12728
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Strike Zone" tvg-logo="" group-title="Sports",MLB Strike Zone
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26513
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS 03" tvg-logo="" group-title="Sports",MLS 03
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022645
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MMA Futures" tvg-logo="" group-title="Sports",MMA Futures
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022935
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motor Trend" tvg-logo="" group-title="Sports",Motor Trend
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26819
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSG" tvg-logo="" group-title="Sports",MSG
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22632
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15892
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12722
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV HD" tvg-logo="" group-title="Sports",NBA TV HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/38067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Golf HD" tvg-logo="" group-title="Sports",NBC Golf HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15898
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Bay Area HD" tvg-logo="" group-title="Sports",NBC Sports Bay Area HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26846
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Bay Area HD" tvg-logo="" group-title="Sports",NBC Sports Bay Area HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15897
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Boston" tvg-logo="" group-title="Sports",NBC Sports Boston
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15896
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports California HD" tvg-logo="" group-title="Sports",NBC Sports California HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26847
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports California HD" tvg-logo="" group-title="Sports",NBC Sports California HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15895
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Chicago HD" tvg-logo="" group-title="Sports",NBC Sports Chicago HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26848
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Chicago HD" tvg-logo="" group-title="Sports",NBC Sports Chicago HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15894
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Northwest" tvg-logo="" group-title="Sports",NBC Sports Northwest
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15893
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Northwest HD" tvg-logo="" group-title="Sports",NBC Sports Northwest HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26849
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Philadelphia HD" tvg-logo="" group-title="Sports",NBC Sports Philadelphia HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Washington" tvg-logo="" group-title="Sports",NBC Sports Washington
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26823
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Washington HD" tvg-logo="" group-title="Sports",NBC Sports Washington HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NCAA Baseball 53" tvg-logo="" group-title="Sports",NCAA Baseball 53
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/943759
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NCAAB 80" tvg-logo="" group-title="Sports",NCAAB 80
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022915
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NCAAF" tvg-logo="" group-title="Sports",NCAAF
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022622
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NESN" tvg-logo="" group-title="Sports",NESN
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Game Pass ===>" tvg-logo="" group-title="Sports",NFL Game Pass ===>
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26402
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network HD" tvg-logo="" group-title="Sports",NFL Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15891
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL RedZone" tvg-logo="" group-title="Sports",NFL RedZone
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1006001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL RedZone" tvg-logo="" group-title="Sports",NFL RedZone
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15890
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL: Seahawks" tvg-logo="" group-title="Sports",NFL: Seahawks
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022696
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL: Steelers" tvg-logo="" group-title="Sports",NFL: Steelers
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022697
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL: Texans" tvg-logo="" group-title="Sports",NFL: Texans
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022698
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL: Titans" tvg-logo="" group-title="Sports",NFL: Titans
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022699
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL: Vikings" tvg-logo="" group-title="Sports",NFL: Vikings
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022700
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL 9 HD" tvg-logo="" group-title="Sports",NHL 9 HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26953
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL Network HD" tvg-logo="" group-title="Sports",NHL Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15889
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRL 247" tvg-logo="" group-title="Sports",NRL 247
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/824765
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Olympic Channel" tvg-logo="" group-title="Sports",Olympic Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15888
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="" group-title="Sports",Outdoor Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28869
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outside TV" tvg-logo="" group-title="Sports",Outside TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28870
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC-12 Arizona HD" tvg-logo="" group-title="Sports",PAC-12 Arizona HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15887
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC-12 Bay Area HD" tvg-logo="" group-title="Sports",PAC-12 Bay Area HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15886
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC-12 Los Angeles HD" tvg-logo="" group-title="Sports",PAC-12 Los Angeles HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15885
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC-12 Mountain HD" tvg-logo="" group-title="Sports",PAC-12 Mountain HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15883
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC-12 Network HD" tvg-logo="" group-title="Sports",PAC-12 Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15884
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC-12 Oregon HD" tvg-logo="" group-title="Sports",PAC-12 Oregon HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15882
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC-12 Washington HD" tvg-logo="" group-title="Sports",PAC-12 Washington HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15881
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PDC Darts" tvg-logo="" group-title="Sports",PDC Darts
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25731
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PDC Darts 2" tvg-logo="" group-title="Sports",PDC Darts 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25732
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 1" tvg-logo="" group-title="Sports",Premier Sports 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25803
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Sports 2" tvg-logo="" group-title="Sports",Premier Sports 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25804
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing TV (AU)" tvg-logo="" group-title="Sports",Racing TV (AU)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28394
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Racing UK" tvg-logo="" group-title="Sports",Racing UK
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20812
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real NHL" tvg-logo="" group-title="Sports",Real NHL
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022835
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEC Network HD" tvg-logo="" group-title="Sports",SEC Network HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12710
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action" tvg-logo="" group-title="Sports",Sky Sports Action
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20835
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="Sports",Sky Sports Arena
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20827
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Sports",Sky Sports Cricket
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20834
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="Sports",Sky Sports F1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20828
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="" group-title="Sports",Sky Sports Football
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20829
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf" tvg-logo="" group-title="Sports",Sky Sports Golf
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20833
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="Sports",Sky Sports Main Event
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20832
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Mix" tvg-logo="" group-title="Sports",Sky Sports Mix
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20830
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports News (UK)" tvg-logo="" group-title="Sports",Sky Sports News (UK)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24302
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Prem League" tvg-logo="" group-title="Sports",Sky Sports Prem League
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20831
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportnet Ontario (CA)" tvg-logo="" group-title="Sports",Sportnet Ontario (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20996
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet 360 HD (CA)" tvg-logo="" group-title="Sports",Sportsnet 360 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet East (CA)" tvg-logo="" group-title="Sports",Sportsnet East (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet LA Lakers" tvg-logo="" group-title="Sports",Sportsnet LA Lakers
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22626
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet NY" tvg-logo="" group-title="Sports",Sportsnet NY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022940
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet One HD (CA)" tvg-logo="" group-title="Sports",Sportsnet One HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20995
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet Pacific HD (CA)" tvg-logo="" group-title="Sports",Sportsnet Pacific HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20998
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet West HD (CA)" tvg-logo="" group-title="Sports",Sportsnet West HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20999
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnet World (CA)" tvg-logo="" group-title="Sports",Sportsnet World (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20997
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsnews Highlights" tvg-logo="" group-title="Sports",Sportsnews Highlights
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022917
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SY Sports Races" tvg-logo="" group-title="Sports",SY Sports Races
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/24303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="" group-title="Sports",Tennis Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15880
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRACE Sport Stars" tvg-logo="" group-title="Sports",TRACE Sport Stars
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022923
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 1 HD (CA)" tvg-logo="" group-title="Sports",TSN 1 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 2 HD (CA)" tvg-logo="" group-title="Sports",TSN 2 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 3 HD (CA)" tvg-logo="" group-title="Sports",TSN 3 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 4 HD (CA)" tvg-logo="" group-title="Sports",TSN 4 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 5 HD (CA)" tvg-logo="" group-title="Sports",TSN 5 HD (CA)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN HD" tvg-logo="" group-title="Sports",TUDN HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25338
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="United Fight Alliance" tvg-logo="" group-title="Sports",United Fight Alliance
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022924
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NHL 59" tvg-logo="" group-title="Sports",USA Real NHL 59
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/1022834
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE HD" tvg-logo="" group-title="Sports",WWE HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15877
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES Network" tvg-logo="" group-title="Sports",YES Network
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22643
